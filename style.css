@@ -6,7 +6,7 @@
 }
 
 .hero_section {
-    background: url(/images/heroSectionBackground.png);
+    background: url(./images/heroSectionBackground.png);
     background-size: cover;
     background-position: center;
     min-height: 60vh;
@@ -225,19 +225,19 @@
 }
 
 .collection1 {
-    background: url(/images/collection1.jpg);
+    background: url(./images/collection1.jpg);
 }
 
 .collection2 {
-    background: url(/images/collection2.jpg);
+    background: url(./images/collection2.jpg);
 }
 
 .collection3 {
-    background: url(/images/collection3.jpg);
+    background: url(./images/collection3.jpg);
 }
 
 .collection4 {
-    background: url(/images/collection4.jpg);
+    background: url(./images/collection4.jpg);
 }
 
 .collectioncard p {
